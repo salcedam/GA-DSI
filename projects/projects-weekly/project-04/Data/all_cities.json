@@ -1,0 +1,4841 @@
+[
+    [],
+    [],
+    [
+        {
+            "meanPay": "$101k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "GE",
+            "city": "Albany, NY"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$100k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "State Farm",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$159k - $172k",
+            "jobTitle": "Data Scientist",
+            "company": "Epsilon",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$79k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "Match",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$87k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Hudl",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "AT&T",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$103k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$107k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$93k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$97k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$98k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$95k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$84k - $92k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Alliance Data",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Arlington, TX"
+        },
+        {
+            "meanPay": "$84k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Infovision",
+            "city": "Arlington, TX"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$66,940",
+            "jobTitle": "Data Scientist",
+            "company": "Square Root",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$76,054",
+            "jobTitle": "Data Scientist",
+            "company": "Adometry",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$108k - $126k",
+            "jobTitle": "Data Scientist",
+            "company": "Vast",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$162k - $178k",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$106k - $116k",
+            "jobTitle": "Data Scientist",
+            "company": "Apple",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$114k - $123k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$106k - $116k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$132k - $143k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$116k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "eBay",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$113k - $123k",
+            "jobTitle": "Data Scientist",
+            "company": "Visa Inc.",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$107k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "NTT DATA",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$118k - $129k",
+            "jobTitle": "Data Scientist",
+            "company": "Zynga",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$122k - $132k",
+            "jobTitle": "Data Scientist",
+            "company": "General Motors",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$94k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "The Advisory Board Company",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$92k - $108k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Adometry",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$94k - $112k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "Clockwork Solutions",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$100k - $109k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$99k - $108k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "The Advisory Board Company",
+            "city": "Austin, TX"
+        },
+        {
+            "meanPay": "$129k - $137k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Austin, TX"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$135k - $210k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$98k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$107k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "Cisco Systems",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$111k - $121k",
+            "jobTitle": "Data Scientist",
+            "company": "Philips",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$101k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "MITRE",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$99k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "CORMAC",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$79k - $86k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Nielsen",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$108k - $117k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "US Department of Defense",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$85k - $91k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Baltimore, MD"
+        },
+        {
+            "meanPay": "$114k - $123k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "General Dynamics Mission Systems",
+            "city": "Baltimore, MD"
+        }
+    ],
+    [
+        {
+            "meanPay": "$96k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Baton Rouge, LA"
+        },
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Baton Rouge, LA"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$94,496",
+            "jobTitle": "Data Scientist",
+            "company": "Wayfair",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$119,000",
+            "jobTitle": "Data Scientist",
+            "company": "TripAdvisor",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$106,250",
+            "jobTitle": "Data Scientist",
+            "company": "TrueMotion",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$108,269",
+            "jobTitle": "Data Scientist",
+            "company": "DataXu",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$126,348",
+            "jobTitle": "Data Scientist",
+            "company": "PayPal",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$86k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Tremor Video",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$70k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "ADP",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$94k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$124k - $136k",
+            "jobTitle": "Data Scientist",
+            "company": "Microsoft",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$106k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Philips",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$116k - $124k",
+            "jobTitle": "Data Scientist",
+            "company": "Altisource",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$114k - $123k",
+            "jobTitle": "Data Scientist",
+            "company": "Vantiv",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Autodesk",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$65k - $70k",
+            "jobTitle": "Data Scientist",
+            "company": "Brown University",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$143k - $157k",
+            "jobTitle": "Data Scientist",
+            "company": "Boston Consulting Group",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$80k - $87k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$104k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$97k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$64k - $68k",
+            "jobTitle": "Data Scientist",
+            "company": "Nielsen",
+            "city": "Boston, MA"
+        },
+        {
+            "meanPay": "$90k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Boston, MA"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$84k - $92k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "IBM",
+            "city": "Buffalo, NY"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$88,960",
+            "jobTitle": "Data Scientist",
+            "company": "MaxPoint",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$5k - $5k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "MaxPoint",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$81k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "QuintilesIMS",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$100k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$90k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$103k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "Cisco Systems",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "NTT DATA",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "SAS Institute",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$94k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Parsons Brinckerhoff",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$81k - $87k",
+            "jobTitle": "Data Scientist",
+            "company": "Vistronix",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$95k - $126k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "MaxPoint",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$78k - $84k",
+            "jobTitle": "Data Scientist II",
+            "company": "MetLife",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$113k - $122k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$118k - $127k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Chapel Hill, NC"
+        },
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist Intern",
+            "company": "IBM",
+            "city": "Chapel Hill, NC"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$80,533",
+            "jobTitle": "Data Scientist",
+            "company": "Fuzzy Logix",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$77k - $83k",
+            "jobTitle": "Data Scientist",
+            "company": "MetLife",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$94k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Ciber",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Bank of America",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$89k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Marketing Associates",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$88k - $96k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$77k - $83k",
+            "jobTitle": "Data Scientist II",
+            "company": "MetLife",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$101k - $108k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Charlotte, NC"
+        },
+        {
+            "meanPay": "$87k - $92k",
+            "jobTitle": "Data Scientist I",
+            "company": "Bank of America",
+            "city": "Charlotte, NC"
+        }
+    ],
+    [
+        {
+            "meanPay": "$32 - $39",
+            "jobTitle": "Data Scientist - Hourly",
+            "company": "Commonwealth Computer Research",
+            "city": "Charlottesville, VA"
+        },
+        {
+            "meanPay": "$68k - $74k",
+            "jobTitle": "Data Scientist",
+            "company": "Elder Research",
+            "city": "Charlottesville, VA"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "BAE Systems USA",
+            "city": "Charlottesville, VA"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "MDA IS",
+            "city": "Charlottesville, VA"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "84.51\u00b0",
+            "city": "Cincinnati, OH"
+        },
+        {
+            "meanPay": "$70k - $77k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Cincinnati, OH"
+        },
+        {
+            "meanPay": "$105k - $116k",
+            "jobTitle": "Data Scientist",
+            "company": "GE",
+            "city": "Cincinnati, OH"
+        },
+        {
+            "meanPay": "$84k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Vantiv",
+            "city": "Cincinnati, OH"
+        },
+        {
+            "meanPay": "$120k - $131k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "GE",
+            "city": "Cincinnati, OH"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$103k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Colorado Springs, CO"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Colorado Springs, CO"
+        },
+        {
+            "meanPay": "$90k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Northrop Grumman",
+            "city": "Colorado Springs, CO"
+        },
+        {
+            "meanPay": "$89k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Raytheon",
+            "city": "Colorado Springs, CO"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$89k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Columbia, SC"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$102,000",
+            "jobTitle": "Data Scientist",
+            "company": "Schlumberger",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$115k - $152k",
+            "jobTitle": "Data Scientist",
+            "company": "Chevron",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$107k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Anthem",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$98k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Rang Technologies",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$119k - $129k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$91k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "IHS",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$90k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "SAIC",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$112k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "Equinix",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$113k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "Sapient Global Markets",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$112k - $121k",
+            "jobTitle": "Data Scientist",
+            "company": "Anadarko Petroleum",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$116k - $126k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Conroe, TX"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "McKinsey & Company",
+            "city": "Conroe, TX"
+        }
+    ],
+    [
+        {
+            "meanPay": "$86k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Conway, AR"
+        },
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Market Strategies International",
+            "city": "Conway, AR"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$99k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "84.51\u00b0",
+            "city": "Covington, KY"
+        },
+        {
+            "meanPay": "$70k - $77k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Covington, KY"
+        },
+        {
+            "meanPay": "$107k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "GE",
+            "city": "Covington, KY"
+        },
+        {
+            "meanPay": "$85k - $92k",
+            "jobTitle": "Data Scientist",
+            "company": "Vantiv",
+            "city": "Covington, KY"
+        },
+        {
+            "meanPay": "$119k - $129k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "GE",
+            "city": "Covington, KY"
+        }
+    ],
+    [
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "State Farm",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$157k - $172k",
+            "jobTitle": "Data Scientist",
+            "company": "Epsilon",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$80k - $87k",
+            "jobTitle": "Data Scientist",
+            "company": "Match",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$87k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Hudl",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "AT&T",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$104k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$90k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$95k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$86k - $91k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Alliance Data",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Dallas, TX"
+        },
+        {
+            "meanPay": "$84k - $91k",
+            "jobTitle": "Data Scientist",
+            "company": "Infovision",
+            "city": "Dallas, TX"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$70k - $75k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Dayton, OH"
+        },
+        {
+            "meanPay": "$92k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Dayton, OH"
+        },
+        {
+            "meanPay": "$85k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Aptima",
+            "city": "Dayton, OH"
+        },
+        {
+            "meanPay": "$89k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Engility",
+            "city": "Dayton, OH"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$108,333",
+            "jobTitle": "Data Scientist",
+            "company": "Oracle",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$43k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "SpotX",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Anadarko Petroleum",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$104k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$93k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$106k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$95k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$110k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "Avanade",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$111k - $121k",
+            "jobTitle": "Data Scientist",
+            "company": "Altisource",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$88k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "Vantiv",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$95k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Molson Coors",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$88k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "DISH",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$105k - $155k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Oracle",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$130k - $141k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$104k - $112k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$107k - $118k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$98k - $105k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Journal Register",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$111k - $119k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "MediaNews",
+            "city": "Denver, CO"
+        },
+        {
+            "meanPay": "$106k - $116k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Digital First Media",
+            "city": "Denver, CO"
+        }
+    ],
+    [
+        {
+            "meanPay": "$112k - $121k",
+            "jobTitle": "Data Scientist",
+            "company": "DuPont",
+            "city": "Des Moines, IA"
+        },
+        {
+            "meanPay": "$86k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Businessolver",
+            "city": "Des Moines, IA"
+        }
+    ],
+    [
+        {
+            "meanPay": "$93k - $119k",
+            "jobTitle": "Data Scientist",
+            "company": "General Motors",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$111k - $127k",
+            "jobTitle": "Data Scientist",
+            "company": "Quicken Loans",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Ford Motor Company",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$95k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$90k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Ciber",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$91k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "IHS",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$90k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Marketing Associates",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$100k - $108k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$90k - $99k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Exponent",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$90k - $97k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Market Strategies International",
+            "city": "Detroit, MI"
+        },
+        {
+            "meanPay": "$122k - $134k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "General Motors",
+            "city": "Detroit, MI"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$120,409",
+            "jobTitle": "Data Scientist",
+            "company": "Microsoft",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$107,304",
+            "jobTitle": "Data Scientist",
+            "company": "Nordstrom",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$112,500",
+            "jobTitle": "Data Scientist",
+            "company": "Zillow",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$7k - $8k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Microsoft",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$74k - $152k",
+            "jobTitle": "Data Scientist",
+            "company": "Voicebox Technologies",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$80k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Redfin",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$140k - $154k",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$80k - $85k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$117k - $127k",
+            "jobTitle": "Data Scientist",
+            "company": "Tata Consultancy Services",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$70k - $76k",
+            "jobTitle": "Data Scientist",
+            "company": "PNNL",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$100k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "Infosys",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$115k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Expedia",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$90k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Boeing",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$117k - $127k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$130k - $140k",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$101k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$99k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Accenture",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$147k - $160k",
+            "jobTitle": "Data Scientist",
+            "company": "Groupon",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$121k - $130k",
+            "jobTitle": "Data Scientist",
+            "company": "Philips",
+            "city": "Everett, WA"
+        },
+        {
+            "meanPay": "$121k - $131k",
+            "jobTitle": "Data Scientist",
+            "company": "Avanade",
+            "city": "Everett, WA"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$125,000",
+            "jobTitle": "Data Scientist",
+            "company": "Tata Consultancy Services",
+            "city": "Fayetteville, AR"
+        },
+        {
+            "meanPay": "$116k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Walmart",
+            "city": "Fayetteville, AR"
+        },
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Walmart",
+            "city": "Fayetteville, AR"
+        },
+        {
+            "meanPay": "$83k - $89k",
+            "jobTitle": "Associate Data Scientist",
+            "company": "Walmart",
+            "city": "Fayetteville, AR"
+        }
+    ],
+    [
+        {
+            "meanPay": "$67k - $73k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Fayetteville, NC"
+        }
+    ],
+    [
+        {
+            "meanPay": "$90k - $97k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "ADP",
+            "city": "Findlay, OH"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$100k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "State Farm",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$160k - $172k",
+            "jobTitle": "Data Scientist",
+            "company": "Epsilon",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$79k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "Match",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$87k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Hudl",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$93k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "AT&T",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$97k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$97k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$95k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$85k - $91k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Alliance Data",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$94k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Fort Worth, TX"
+        },
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Infovision",
+            "city": "Fort Worth, TX"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$80k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "J.P. Morgan",
+            "city": "Green Bay, WI"
+        },
+        {
+            "meanPay": "$90k - $98k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "J.P. Morgan",
+            "city": "Green Bay, WI"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Hammond, LA"
+        },
+        {
+            "meanPay": "$85k - $92k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Hammond, LA"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$89k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "SAIC",
+            "city": "Harrisburg, PA"
+        },
+        {
+            "meanPay": "$122k - $132k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Harrisburg, PA"
+        },
+        {
+            "meanPay": "$100k - $107k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "SAIC",
+            "city": "Harrisburg, PA"
+        },
+        {
+            "meanPay": "$71k - $77k",
+            "jobTitle": "Associate Data Scientist",
+            "company": "Ascensus",
+            "city": "Harrisburg, PA"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "Accenture",
+            "city": "Hartford, CT"
+        },
+        {
+            "meanPay": "$99k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Hartford, CT"
+        },
+        {
+            "meanPay": "$94k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "ING",
+            "city": "Hartford, CT"
+        },
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "C&S Wholesale Grocers",
+            "city": "Hartford, CT"
+        },
+        {
+            "meanPay": "$63k - $95k",
+            "jobTitle": "Associate Data Scientist",
+            "company": "The Hartford",
+            "city": "Hartford, CT"
+        },
+        {
+            "meanPay": "$128k - $137k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "GE",
+            "city": "Hartford, CT"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$76k - $83k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Honolulu, HI"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$102,000",
+            "jobTitle": "Data Scientist",
+            "company": "Schlumberger",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$114k - $153k",
+            "jobTitle": "Data Scientist",
+            "company": "Chevron",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$106k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$96k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Anthem",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$99k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Rang Technologies",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$83k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$118k - $128k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "IHS",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$89k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "SAIC",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$114k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "Equinix",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$114k - $123k",
+            "jobTitle": "Data Scientist",
+            "company": "Sapient Global Markets",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$113k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "Anadarko Petroleum",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$117k - $126k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Houston, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "McKinsey & Company",
+            "city": "Houston, TX"
+        }
+    ],
+    [
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "SAIC",
+            "city": "Huntsville, AL"
+        },
+        {
+            "meanPay": "$97k - $104k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "SAIC",
+            "city": "Huntsville, AL"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Salesforce",
+            "city": "Indianapolis, IN"
+        },
+        {
+            "meanPay": "$92k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Crowe Horwath",
+            "city": "Indianapolis, IN"
+        },
+        {
+            "meanPay": "$98k - $107k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Indianapolis, IN"
+        },
+        {
+            "meanPay": "$70k - $76k",
+            "jobTitle": "Associate Data Scientist",
+            "company": "Ascensus",
+            "city": "Indianapolis, IN"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$48,901",
+            "jobTitle": "Data Scientist",
+            "company": "MECLABS",
+            "city": "Jacksonville, FL"
+        },
+        {
+            "meanPay": "$93k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Jacksonville, FL"
+        },
+        {
+            "meanPay": "$90k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Jacksonville, FL"
+        },
+        {
+            "meanPay": "$97k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Florida Blue",
+            "city": "Jacksonville, FL"
+        },
+        {
+            "meanPay": "$86k - $92k",
+            "jobTitle": "Data Scientist I",
+            "company": "Bank of America",
+            "city": "Jacksonville, FL"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$133,822",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$121,700",
+            "jobTitle": "Data Scientist",
+            "company": "Microsoft",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$110,186",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$86,552",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$111,905",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$104,078",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$123,724",
+            "jobTitle": "Data Scientist",
+            "company": "Airbnb",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$135,402",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$104,480",
+            "jobTitle": "Data Scientist",
+            "company": "Rang Technologies",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$75,503",
+            "jobTitle": "Data Scientist",
+            "company": "Civis Analytics",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$132,457",
+            "jobTitle": "Data Scientist",
+            "company": "LinkedIn",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$96,781",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$147,305",
+            "jobTitle": "Data Scientist",
+            "company": "Apple",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$97,145",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$68,672",
+            "jobTitle": "Data Scientist",
+            "company": "Nielsen",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$92,433",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$132,909",
+            "jobTitle": "Data Scientist",
+            "company": "PayPal",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$97,407",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$94,496",
+            "jobTitle": "Data Scientist",
+            "company": "Wayfair",
+            "city": "Kalispell, MT"
+        },
+        {
+            "meanPay": "$119,594",
+            "jobTitle": "Data Scientist",
+            "company": "Uber",
+            "city": "Kalispell, MT"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$85k - $92k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Knoxville, TN"
+        },
+        {
+            "meanPay": "$95k - $104k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Knoxville, TN"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$86k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "CGI",
+            "city": "Lafayette, LA"
+        },
+        {
+            "meanPay": "$96k - $105k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "CGI",
+            "city": "Lafayette, LA"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Altamira Technologies",
+            "city": "Las Cruces, NM"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$152k - $164k",
+            "jobTitle": "Data Scientist",
+            "company": "Live Nation Entertainment",
+            "city": "Louisville, KY"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Louisville, KY"
+        }
+    ],
+    [
+        {
+            "meanPay": "$72,654",
+            "jobTitle": "Data Scientist",
+            "company": "Civis Analytics",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$86,434",
+            "jobTitle": "Data Scientist",
+            "company": "Allstate",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$69,550",
+            "jobTitle": "Data Scientist",
+            "company": "Nielsen",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$109,000",
+            "jobTitle": "Data Scientist",
+            "company": "Uptake",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$75k - $82k",
+            "jobTitle": "Data Scientist",
+            "company": "Datascope Analytics",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$106k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$48k - $52k",
+            "jobTitle": "Data Scientist",
+            "company": "Uber",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$100k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Google",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$87k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "EMC",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$112k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "Motorola Mobility",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$109k - $119k",
+            "jobTitle": "Data Scientist",
+            "company": "GrubHub",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "HERE",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$112k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$115k - $124k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$104k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$96k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$89k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$107k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Chicago, IL"
+        },
+        {
+            "meanPay": "$128k - $141k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Chicago, IL"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$86,172",
+            "jobTitle": "Data Scientist",
+            "company": "CareerBuilder",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$87k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "NCR",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$90k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "The Home Depot",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$87k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Feedzai",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$102k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$72k - $77k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$96k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$87k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Rang Technologies",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$90k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$81k - $88k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$105k - $113k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$82k - $88k",
+            "jobTitle": "Data Scientist",
+            "company": "Fractal Analytics",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$89k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Equifax",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Northrop Grumman",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$85k - $92k",
+            "jobTitle": "Data Scientist",
+            "company": "ADP",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "Kabbage",
+            "city": "Marietta, GA"
+        },
+        {
+            "meanPay": "$91k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Marietta, GA"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$90k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$99k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "Honeywell",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "ING",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$94k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Thomson Reuters",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$75k - $81k",
+            "jobTitle": "Data Scientist",
+            "company": "The Nerdery",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$103k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "Cargill",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Target",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$116k - $126k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$111k - $121k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Honeywell",
+            "city": "Minneapolis, MN"
+        },
+        {
+            "meanPay": "$102k - $110k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "NativeX",
+            "city": "Minneapolis, MN"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$88k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "Molson Coors",
+            "city": "Mobile, AL"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$85k - $91k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Morristown, TN"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Morristown, TN"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$57k - $62k",
+            "jobTitle": "Data Scientist",
+            "company": "Oracle",
+            "city": "New Haven, CT"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$104,714",
+            "jobTitle": "Data Scientist",
+            "company": "AIG",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$136,000",
+            "jobTitle": "Data Scientist",
+            "company": "Knewton",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$101,667",
+            "jobTitle": "Data Scientist",
+            "company": "Audible",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$108,114",
+            "jobTitle": "Data Scientist",
+            "company": "Case Commons",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$150,038",
+            "jobTitle": "Data Scientist",
+            "company": "EBH Enterprises",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$87k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$96k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$39 - $42",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Cablevision Systems",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$115k - $135k",
+            "jobTitle": "Data Scientist",
+            "company": "Bloomberg L.P.",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$59k - $78k",
+            "jobTitle": "Data Scientist",
+            "company": "Credit Suisse",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$82k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "1010data",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$123k - $135k",
+            "jobTitle": "Data Scientist",
+            "company": "Oscar Insurance",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$86k - $139k",
+            "jobTitle": "Data Scientist",
+            "company": "OnDeck",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$53k - $68k",
+            "jobTitle": "Data Scientist",
+            "company": "Marketing Evolution",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$67k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "DemystData",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$108k - $137k",
+            "jobTitle": "Data Scientist",
+            "company": "Integral Ad Science",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$62k - $134k",
+            "jobTitle": "Data Scientist",
+            "company": "J.P. Morgan",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$91k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "American Express",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$134k - $147k",
+            "jobTitle": "Data Scientist",
+            "company": "Paperless Post",
+            "city": "New York (Manhattan), NY"
+        },
+        {
+            "meanPay": "$124k - $136k",
+            "jobTitle": "Data Scientist",
+            "company": "Time Inc.",
+            "city": "New York (Manhattan), NY"
+        }
+    ],
+    [
+        {
+            "meanPay": "$104,714",
+            "jobTitle": "Data Scientist",
+            "company": "AIG",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$136,000",
+            "jobTitle": "Data Scientist",
+            "company": "Knewton",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$101,667",
+            "jobTitle": "Data Scientist",
+            "company": "Audible",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$108,114",
+            "jobTitle": "Data Scientist",
+            "company": "Case Commons",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$150,038",
+            "jobTitle": "Data Scientist",
+            "company": "EBH Enterprises",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$87k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$96k - $126k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$38 - $42",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Cablevision Systems",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$116k - $136k",
+            "jobTitle": "Data Scientist",
+            "company": "Bloomberg L.P.",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$60k - $78k",
+            "jobTitle": "Data Scientist",
+            "company": "Credit Suisse",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$82k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "1010data",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$122k - $135k",
+            "jobTitle": "Data Scientist",
+            "company": "Oscar Insurance",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$87k - $140k",
+            "jobTitle": "Data Scientist",
+            "company": "OnDeck",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$53k - $68k",
+            "jobTitle": "Data Scientist",
+            "company": "Marketing Evolution",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$67k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "DemystData",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$106k - $138k",
+            "jobTitle": "Data Scientist",
+            "company": "Integral Ad Science",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$62k - $134k",
+            "jobTitle": "Data Scientist",
+            "company": "J.P. Morgan",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$91k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "American Express",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$134k - $147k",
+            "jobTitle": "Data Scientist",
+            "company": "Paperless Post",
+            "city": "New York (Queens), NY"
+        },
+        {
+            "meanPay": "$125k - $137k",
+            "jobTitle": "Data Scientist",
+            "company": "Time Inc.",
+            "city": "New York (Queens), NY"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$139,144",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$123,724",
+            "jobTitle": "Data Scientist",
+            "company": "Airbnb",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$134,861",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$128,293",
+            "jobTitle": "Data Scientist",
+            "company": "Uber",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$7,030",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Facebook",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$119,000",
+            "jobTitle": "Data Scientist",
+            "company": "Lumiata",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$130,636",
+            "jobTitle": "Data Scientist",
+            "company": "StumbleUpon",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$137,980",
+            "jobTitle": "Data Scientist",
+            "company": "Pandora Media",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$133,610",
+            "jobTitle": "Data Scientist",
+            "company": "Practice Fusion",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$96k - $170k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$44 - $53",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Twitter",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$8k - $9k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Walmart eCommerce",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$106k - $124k",
+            "jobTitle": "Data Scientist",
+            "company": "Zillow",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$105k - $144k",
+            "jobTitle": "Data Scientist",
+            "company": "Salesforce",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$43 - $54",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Walmart eCommerce",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$40 - $46",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Cablevision Systems",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$108k - $139k",
+            "jobTitle": "Data Scientist",
+            "company": "Ayasdi",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$118k - $159k",
+            "jobTitle": "Data Scientist",
+            "company": "AutoGrid",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$80k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "RichRelevance",
+            "city": "Oakland, CA"
+        },
+        {
+            "meanPay": "$97k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "Premise Data Corporation",
+            "city": "Oakland, CA"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Orlando, FL"
+        },
+        {
+            "meanPay": "$91k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Orlando, FL"
+        },
+        {
+            "meanPay": "$82k - $88k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Orlando, FL"
+        },
+        {
+            "meanPay": "$87k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Aptima",
+            "city": "Orlando, FL"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Leidos",
+            "city": "Orlando, FL"
+        },
+        {
+            "meanPay": "$87k - $95k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "Verizon",
+            "city": "Orlando, FL"
+        },
+        {
+            "meanPay": "$80k - $88k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Orlando, FL"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$39k - $42k",
+            "jobTitle": "Data Scientist",
+            "company": "Assero Services",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$68k - $75k",
+            "jobTitle": "Data Scientist",
+            "company": "Comcast",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$101k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "Chubb",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$105k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$105k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$89k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$91k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$95k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "QuintilesIMS",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$115k - $126k",
+            "jobTitle": "Data Scientist",
+            "company": "DuPont",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "PRA Health Sciences",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Morgan Stanley",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$135k - $147k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Comcast",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$118k - $129k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Capital One",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$95k - $102k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "SAP",
+            "city": "Philadelphia, PA"
+        },
+        {
+            "meanPay": "$133k - $145k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "Capital One",
+            "city": "Philadelphia, PA"
+        }
+    ],
+    [
+        {
+            "meanPay": "$87k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "American Express",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$72k - $79k",
+            "jobTitle": "Data Scientist",
+            "company": "SAP",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$112k - $122k",
+            "jobTitle": "Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$102k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$113k - $121k",
+            "jobTitle": "Data Scientist",
+            "company": "Oracle",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Honeywell",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$107k - $117k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$127k - $138k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Oracle",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$108k - $117k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Honeywell",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$101k - $110k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "L-3 Communications",
+            "city": "Phoenix, AZ"
+        },
+        {
+            "meanPay": "$102k - $112k",
+            "jobTitle": "Chief Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Phoenix, AZ"
+        }
+    ],
+    [
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Rang Technologies",
+            "city": "Pittsburgh, PA"
+        },
+        {
+            "meanPay": "$88k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Pittsburgh, PA"
+        },
+        {
+            "meanPay": "$116k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Pittsburgh, PA"
+        },
+        {
+            "meanPay": "$109k - $117k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon Lab126",
+            "city": "Pittsburgh, PA"
+        },
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Target",
+            "city": "Pittsburgh, PA"
+        },
+        {
+            "meanPay": "$97k - $106k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "BNY Mellon",
+            "city": "Pittsburgh, PA"
+        },
+        {
+            "meanPay": "$108k - $117k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "BNY Mellon",
+            "city": "Pittsburgh, PA"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$100k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "State Farm",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$159k - $172k",
+            "jobTitle": "Data Scientist",
+            "company": "Epsilon",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$79k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "Match",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$86k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Hudl",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "AT&T",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$104k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$106k - $113k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$96k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$106k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$97k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$84k - $92k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$92k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Alliance Data",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$93k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Plano, TX"
+        },
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Infovision",
+            "city": "Plano, TX"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$144k - $156k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "LinkedIn",
+            "city": "Portland, ME"
+        }
+    ],
+    [
+        {
+            "meanPay": "$119k - $129k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$114k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$129k - $140k",
+            "jobTitle": "Data Scientist",
+            "company": "AppNexus",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$101k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$104k - $113k",
+            "jobTitle": "Data Scientist",
+            "company": "PNNL",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$110k - $117k",
+            "jobTitle": "Data Scientist",
+            "company": "GitHub",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$102k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "CNA",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$97k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "comScore",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$123k - $135k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$95k - $101k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Market Strategies International",
+            "city": "Portland, OR"
+        },
+        {
+            "meanPay": "$121k - $132k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "McAfee",
+            "city": "Portland, OR"
+        }
+    ],
+    [
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Brown University",
+            "city": "Providence, RI"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Fidelity Investments",
+            "city": "Providence, RI"
+        },
+        {
+            "meanPay": "$101k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "ACI Worldwide",
+            "city": "Providence, RI"
+        },
+        {
+            "meanPay": "$80k - $87k",
+            "jobTitle": "Data Scientist II",
+            "company": "MetLife",
+            "city": "Providence, RI"
+        }
+    ],
+    [
+        {
+            "meanPay": "$133,822",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$121,700",
+            "jobTitle": "Data Scientist",
+            "company": "Microsoft",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$110,186",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$86,552",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$111,905",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$104,078",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$123,724",
+            "jobTitle": "Data Scientist",
+            "company": "Airbnb",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$135,402",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$104,480",
+            "jobTitle": "Data Scientist",
+            "company": "Rang Technologies",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$75,503",
+            "jobTitle": "Data Scientist",
+            "company": "Civis Analytics",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$132,457",
+            "jobTitle": "Data Scientist",
+            "company": "LinkedIn",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$96,781",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$147,305",
+            "jobTitle": "Data Scientist",
+            "company": "Apple",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$97,145",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$68,672",
+            "jobTitle": "Data Scientist",
+            "company": "Nielsen",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$92,433",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$132,909",
+            "jobTitle": "Data Scientist",
+            "company": "PayPal",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$97,407",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$94,496",
+            "jobTitle": "Data Scientist",
+            "company": "Wayfair",
+            "city": "Pryor Creek, OK"
+        },
+        {
+            "meanPay": "$119,594",
+            "jobTitle": "Data Scientist",
+            "company": "Uber",
+            "city": "Pryor Creek, OK"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$88,960",
+            "jobTitle": "Data Scientist",
+            "company": "MaxPoint",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$5k - $5k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "MaxPoint",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "QuintilesIMS",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$102k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$94k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$89k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "Cisco Systems",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "NTT DATA",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$103k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "SAS Institute",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Parsons Brinckerhoff",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$81k - $87k",
+            "jobTitle": "Data Scientist",
+            "company": "Vistronix",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$97k - $127k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "MaxPoint",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$88k - $96k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$78k - $84k",
+            "jobTitle": "Data Scientist II",
+            "company": "MetLife",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$113k - $123k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$119k - $128k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Raleigh, NC"
+        },
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist Intern",
+            "company": "IBM",
+            "city": "Raleigh, NC"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$109,479",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Richmond, VA"
+        },
+        {
+            "meanPay": "$122k - $131k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "Snagajob",
+            "city": "Richmond, VA"
+        }
+    ],
+    [
+        {
+            "meanPay": "$114k - $123k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Think Big",
+            "city": "Rio Rancho, NM"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$112k - $122k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Rochester, MN"
+        }
+    ],
+    [
+        {
+            "meanPay": "$82k - $89k",
+            "jobTitle": "Data Scientist",
+            "company": "Neustar",
+            "city": "Rochester, NY"
+        },
+        {
+            "meanPay": "$112k - $122k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Rochester, NY"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$66,940",
+            "jobTitle": "Data Scientist",
+            "company": "Square Root",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$76,054",
+            "jobTitle": "Data Scientist",
+            "company": "Adometry",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$108k - $128k",
+            "jobTitle": "Data Scientist",
+            "company": "Vast",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$163k - $177k",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$107k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "Apple",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$114k - $123k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$106k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$132k - $142k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$115k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "eBay",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$113k - $123k",
+            "jobTitle": "Data Scientist",
+            "company": "Visa Inc.",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$107k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "NTT DATA",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$119k - $129k",
+            "jobTitle": "Data Scientist",
+            "company": "Zynga",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$121k - $133k",
+            "jobTitle": "Data Scientist",
+            "company": "General Motors",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$94k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "The Advisory Board Company",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$92k - $107k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Adometry",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$96k - $111k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "Clockwork Solutions",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$101k - $108k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$99k - $108k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "The Advisory Board Company",
+            "city": "Round Rock, TX"
+        },
+        {
+            "meanPay": "$129k - $140k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "Round Rock, TX"
+        }
+    ],
+    [
+        {
+            "meanPay": "$38k - $42k",
+            "jobTitle": "Data Scientist",
+            "company": "Engage3",
+            "city": "Sacramento, CA"
+        },
+        {
+            "meanPay": "$113k - $121k",
+            "jobTitle": "Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Sacramento, CA"
+        },
+        {
+            "meanPay": "$110k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "Monsanto Company",
+            "city": "Sacramento, CA"
+        },
+        {
+            "meanPay": "$110k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "Micron Technology",
+            "city": "Sacramento, CA"
+        },
+        {
+            "meanPay": "$100k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "Parsons Brinckerhoff",
+            "city": "Sacramento, CA"
+        },
+        {
+            "meanPay": "$127k - $137k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Sacramento, CA"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$68k - $77k",
+            "jobTitle": "Data Scientist",
+            "company": "Zions Bancorporation",
+            "city": "Salt Lake City, UT"
+        },
+        {
+            "meanPay": "$110k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "IM Flash Technologies",
+            "city": "Salt Lake City, UT"
+        },
+        {
+            "meanPay": "$115k - $126k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Think Big",
+            "city": "Salt Lake City, UT"
+        },
+        {
+            "meanPay": "$128k - $140k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "Think Big",
+            "city": "Salt Lake City, UT"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$58k - $62k",
+            "jobTitle": "Data Scientist",
+            "company": "Tata Consultancy Services",
+            "city": "San Antonio, TX"
+        },
+        {
+            "meanPay": "$91k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "San Antonio, TX"
+        },
+        {
+            "meanPay": "$89k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "CGI",
+            "city": "San Antonio, TX"
+        }
+    ],
+    [
+        {
+            "meanPay": "$84k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "FICO",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$25 - $29",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Cymer",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$77k - $124k",
+            "jobTitle": "Data Scientist",
+            "company": "Teradata",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$90k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "SAS Institute",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$107k - $117k",
+            "jobTitle": "Data Scientist",
+            "company": "CA Technologies",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$109k - $117k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$77k - $83k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$93k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Accenture",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$104k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$117k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Intuit",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$113k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Experian",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$98k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "ViaSat",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$75k - $81k",
+            "jobTitle": "Data Scientist",
+            "company": "FocusKPI, Inc.",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$96k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "QinetiQ North America",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$86k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "CoreLogic",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "Thermo Fisher Scientific",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$126k - $135k",
+            "jobTitle": "Lead Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "San Diego, CA"
+        },
+        {
+            "meanPay": "$121k - $132k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "San Diego, CA"
+        }
+    ],
+    [
+        {
+            "meanPay": "$139,144",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$123,724",
+            "jobTitle": "Data Scientist",
+            "company": "Airbnb",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$134,861",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$128,293",
+            "jobTitle": "Data Scientist",
+            "company": "Uber",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$7,030",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Facebook",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$119,000",
+            "jobTitle": "Data Scientist",
+            "company": "Lumiata",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$130,636",
+            "jobTitle": "Data Scientist",
+            "company": "StumbleUpon",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$137,980",
+            "jobTitle": "Data Scientist",
+            "company": "Pandora Media",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$133,610",
+            "jobTitle": "Data Scientist",
+            "company": "Practice Fusion",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$95k - $171k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$44 - $53",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Twitter",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$8k - $8k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Walmart eCommerce",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$106k - $124k",
+            "jobTitle": "Data Scientist",
+            "company": "Zillow",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$106k - $144k",
+            "jobTitle": "Data Scientist",
+            "company": "Salesforce",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$43 - $54",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Walmart eCommerce",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$39 - $46",
+            "jobTitle": "Data Scientist Intern - Hourly",
+            "company": "Cablevision Systems",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$108k - $140k",
+            "jobTitle": "Data Scientist",
+            "company": "Ayasdi",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$118k - $160k",
+            "jobTitle": "Data Scientist",
+            "company": "AutoGrid",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$79k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "RichRelevance",
+            "city": "San Francisco, CA"
+        },
+        {
+            "meanPay": "$95k - $113k",
+            "jobTitle": "Data Scientist",
+            "company": "Premise Data Corporation",
+            "city": "San Francisco, CA"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "ZEFR",
+            "city": "Sarasota, FL"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$120,409",
+            "jobTitle": "Data Scientist",
+            "company": "Microsoft",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$107,304",
+            "jobTitle": "Data Scientist",
+            "company": "Nordstrom",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$112,500",
+            "jobTitle": "Data Scientist",
+            "company": "Zillow",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$7k - $8k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Microsoft",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$76k - $151k",
+            "jobTitle": "Data Scientist",
+            "company": "Voicebox Technologies",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$81k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Redfin",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$143k - $153k",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$78k - $85k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$118k - $128k",
+            "jobTitle": "Data Scientist",
+            "company": "Tata Consultancy Services",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$70k - $75k",
+            "jobTitle": "Data Scientist",
+            "company": "PNNL",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$100k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "Infosys",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$116k - $124k",
+            "jobTitle": "Data Scientist",
+            "company": "Expedia",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$92k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Boeing",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$116k - $126k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$129k - $140k",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$101k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$98k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Accenture",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$148k - $160k",
+            "jobTitle": "Data Scientist",
+            "company": "Groupon",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$119k - $130k",
+            "jobTitle": "Data Scientist",
+            "company": "Philips",
+            "city": "Seattle, WA"
+        },
+        {
+            "meanPay": "$119k - $129k",
+            "jobTitle": "Data Scientist",
+            "company": "Avanade",
+            "city": "Seattle, WA"
+        }
+    ],
+    [
+        {
+            "meanPay": "$57k - $63k",
+            "jobTitle": "Data Scientist",
+            "company": "Tata Consultancy Services",
+            "city": "Seguin, TX"
+        },
+        {
+            "meanPay": "$90k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Seguin, TX"
+        },
+        {
+            "meanPay": "$88k - $95k",
+            "jobTitle": "Data Scientist",
+            "company": "CGI",
+            "city": "Seguin, TX"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Springfield, MO"
+        },
+        {
+            "meanPay": "$77k - $84k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Springfield, MO"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Springfield, MO"
+        },
+        {
+            "meanPay": "$87k - $94k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Leidos",
+            "city": "Springfield, MO"
+        }
+    ],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$103k - $112k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$98k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "Honeywell",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "ING",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$93k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Thomson Reuters",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$74k - $81k",
+            "jobTitle": "Data Scientist",
+            "company": "The Nerdery",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$102k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "Cargill",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$89k - $96k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Target",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$117k - $128k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "IBM",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$110k - $120k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Honeywell",
+            "city": "St. Paul, MN"
+        },
+        {
+            "meanPay": "$101k - $111k",
+            "jobTitle": "Junior Data Scientist",
+            "company": "NativeX",
+            "city": "St. Paul, MN"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$89k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Sumter, SC"
+        }
+    ],
+    [
+        {
+            "meanPay": "$111k - $119k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "SRC",
+            "city": "Syracuse, NY"
+        }
+    ],
+    [
+        {
+            "meanPay": "$120,409",
+            "jobTitle": "Data Scientist",
+            "company": "Microsoft",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$107,304",
+            "jobTitle": "Data Scientist",
+            "company": "Nordstrom",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$112,500",
+            "jobTitle": "Data Scientist",
+            "company": "Zillow",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$7k - $8k",
+            "jobTitle": "Data Scientist Intern - Monthly",
+            "company": "Microsoft",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$75k - $151k",
+            "jobTitle": "Data Scientist",
+            "company": "Voicebox Technologies",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$81k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Redfin",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$140k - $155k",
+            "jobTitle": "Data Scientist",
+            "company": "Facebook",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$79k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "Amazon.com",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$118k - $127k",
+            "jobTitle": "Data Scientist",
+            "company": "Tata Consultancy Services",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$69k - $75k",
+            "jobTitle": "Data Scientist",
+            "company": "PNNL",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$101k - $110k",
+            "jobTitle": "Data Scientist",
+            "company": "Infosys",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$115k - $126k",
+            "jobTitle": "Data Scientist",
+            "company": "Expedia",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$91k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Boeing",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$117k - $127k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$128k - $139k",
+            "jobTitle": "Data Scientist",
+            "company": "Twitter",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$101k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$99k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "Accenture",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$149k - $160k",
+            "jobTitle": "Data Scientist",
+            "company": "Groupon",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$120k - $131k",
+            "jobTitle": "Data Scientist",
+            "company": "Philips",
+            "city": "Tacoma, WA"
+        },
+        {
+            "meanPay": "$119k - $130k",
+            "jobTitle": "Data Scientist",
+            "company": "Avanade",
+            "city": "Tacoma, WA"
+        }
+    ],
+    [
+        {
+            "meanPay": "$48k - $73k",
+            "jobTitle": "Data Scientist",
+            "company": "Nielsen",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$86k - $94k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$103k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$95k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$91k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "Northrop Grumman",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$97k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Altamira Technologies",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$99k - $107k",
+            "jobTitle": "Data Scientist",
+            "company": "Florida Blue",
+            "city": "Tampa, FL"
+        },
+        {
+            "meanPay": "$64k - $69k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Nielsen",
+            "city": "Tampa, FL"
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$120k - $131k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$115k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$130k - $140k",
+            "jobTitle": "Data Scientist",
+            "company": "AppNexus",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$99k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$104k - $113k",
+            "jobTitle": "Data Scientist",
+            "company": "PNNL",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$110k - $118k",
+            "jobTitle": "Data Scientist",
+            "company": "GitHub",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$102k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "CNA",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$96k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "comScore",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$123k - $134k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Intel Corporation",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$95k - $102k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Market Strategies International",
+            "city": "Vancouver, WA"
+        },
+        {
+            "meanPay": "$120k - $131k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "McAfee",
+            "city": "Vancouver, WA"
+        }
+    ],
+    [],
+    [],
+    [
+        {
+            "meanPay": "$101k - $108k",
+            "jobTitle": "Data Scientist",
+            "company": "State Farm",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$159k - $173k",
+            "jobTitle": "Data Scientist",
+            "company": "Epsilon",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$80k - $86k",
+            "jobTitle": "Data Scientist",
+            "company": "Match",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$86k - $93k",
+            "jobTitle": "Data Scientist",
+            "company": "Hudl",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "AT&T",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$104k - $111k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$104k - $113k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$91k - $99k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$83k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Gallup",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$105k - $115k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett Packard Enterprise | HPE",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$97k - $105k",
+            "jobTitle": "Data Scientist",
+            "company": "Hewlett-Packard",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$97k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "Verizon Wireless",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$94k - $102k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$84k - $92k",
+            "jobTitle": "Data Scientist",
+            "company": "Leidos",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$92k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Alliance Data",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "Citi",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$94k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "Humana",
+            "city": "Weatherford, TX"
+        },
+        {
+            "meanPay": "$84k - $90k",
+            "jobTitle": "Data Scientist",
+            "company": "Infovision",
+            "city": "Weatherford, TX"
+        }
+    ],
+    [],
+    [
+        {
+            "meanPay": "$94k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Cargill",
+            "city": "Wichita, KS"
+        }
+    ],
+    [
+        {
+            "meanPay": "$38k - $42k",
+            "jobTitle": "Data Scientist",
+            "company": "Assero Services",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$91k - $98k",
+            "jobTitle": "Data Scientist",
+            "company": "Booz Allen Hamilton",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$68k - $74k",
+            "jobTitle": "Data Scientist",
+            "company": "Comcast",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$101k - $109k",
+            "jobTitle": "Data Scientist",
+            "company": "Chubb",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$104k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "IBM",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$105k - $114k",
+            "jobTitle": "Data Scientist",
+            "company": "Capital One",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$96k - $106k",
+            "jobTitle": "Data Scientist",
+            "company": "PwC",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$91k - $97k",
+            "jobTitle": "Data Scientist",
+            "company": "Cognizant Technology Solutions",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$93k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "KPMG",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$96k - $103k",
+            "jobTitle": "Data Scientist",
+            "company": "Lockheed Martin",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$95k - $101k",
+            "jobTitle": "Data Scientist",
+            "company": "QuintilesIMS",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$116k - $125k",
+            "jobTitle": "Data Scientist",
+            "company": "DuPont",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Data Scientist",
+            "company": "PRA Health Sciences",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$97k - $104k",
+            "jobTitle": "Data Scientist",
+            "company": "Morgan Stanley",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$92k - $100k",
+            "jobTitle": "Entry Level Data Scientist",
+            "company": "IBM",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$135k - $146k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Comcast",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$105k - $112k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "KPMG",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$120k - $130k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "Capital One",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$95k - $102k",
+            "jobTitle": "Senior Data Scientist",
+            "company": "SAP",
+            "city": "Wilmington, DE"
+        },
+        {
+            "meanPay": "$132k - $145k",
+            "jobTitle": "Principal Data Scientist",
+            "company": "Capital One",
+            "city": "Wilmington, DE"
+        }
+    ],
+    [],
+    [],
+    [],
+    []
+]

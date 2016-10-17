@@ -1,0 +1,552 @@
+,location,company,jkid,title,salary,stars,reviews,post_date,pull_date
+0,0,0,0,0,0,0,0,0,0
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+40,"San Francisco, CA","Rodan & Fields, LLC",90665cf63e238214,Data Scientist - Forecasting,,53.4,44,17 days,2016-10-16 11:54:58.624010
+41,"San Francisco, CA",Trulia,eea914c8a4a70116,Analytics Implementation Specialist,,43.8,44,11 days,2016-10-16 11:54:58.624010
+42,"San Francisco, CA",Salesforce,842ea98d9ed355f9,Summer 2017 Intern - Data Scientist,,52.800003,155,4 days,2016-10-16 11:54:58.624010
+43,"San Francisco, CA",Pulsate,0bf109625bb00f8c,Data Scientist / Analyst (Internship),,,,17 days,2016-10-16 11:54:58.624010
+44,"San Francisco, CA 94107 (South Of Market area)",Expa,c2128b2e0a038e1c,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+45,"San Francisco, CA",The Climate Corporation,fa52de9a162ab45f,Quantitative Analyst (Geospatial),,54.0,2,2 days,2016-10-16 11:54:58.624010
+46,"San Francisco, CA",INMASI,1f3ceb540034d809,Data Scientist,,,,30 days,2016-10-16 11:54:58.624010
+47,"San Francisco, CA 94103 (South Of Market area)",TellApart,bc06d0e24c4e3e4a,Software Engineer (Machine Learning) - TellApart,,,,10 days,2016-10-16 11:54:58.624010
+48,"Berkeley, CA","Wise.io, Inc.",743867c5fae7ba2a,Data Scientist,,,,22 days,2016-10-16 11:54:58.624010
+49,"San Francisco, CA",Atomic,6f6bb3c4f8ae0a4f,Data Scientist,,51.0,3,20 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+40,"San Francisco, CA","Rodan & Fields, LLC",90665cf63e238214,Data Scientist - Forecasting,,53.4,44,17 days,2016-10-16 11:54:58.624010
+41,"San Francisco, CA",Trulia,eea914c8a4a70116,Analytics Implementation Specialist,,43.8,44,11 days,2016-10-16 11:54:58.624010
+42,"San Francisco, CA",Salesforce,842ea98d9ed355f9,Summer 2017 Intern - Data Scientist,,52.800003,155,4 days,2016-10-16 11:54:58.624010
+43,"San Francisco, CA",Pulsate,0bf109625bb00f8c,Data Scientist / Analyst (Internship),,,,17 days,2016-10-16 11:54:58.624010
+44,"San Francisco, CA 94107 (South Of Market area)",Expa,c2128b2e0a038e1c,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+45,"San Francisco, CA",The Climate Corporation,fa52de9a162ab45f,Quantitative Analyst (Geospatial),,54.0,2,2 days,2016-10-16 11:54:58.624010
+46,"San Francisco, CA",INMASI,1f3ceb540034d809,Data Scientist,,,,30 days,2016-10-16 11:54:58.624010
+47,"San Francisco, CA 94103 (South Of Market area)",TellApart,bc06d0e24c4e3e4a,Software Engineer (Machine Learning) - TellApart,,,,10 days,2016-10-16 11:54:58.624010
+48,"Berkeley, CA","Wise.io, Inc.",743867c5fae7ba2a,Data Scientist,,,,22 days,2016-10-16 11:54:58.624010
+49,"San Francisco, CA",Atomic,6f6bb3c4f8ae0a4f,Data Scientist,,51.0,3,20 days,2016-10-16 11:54:58.624010
+50,"San Francisco, CA 94103 (South Of Market area)",Uber,8f8ccb1fc919e186,Data Scientist - Global Intelligence,,51.6,156,22 days,2016-10-16 11:54:58.624010
+51,"San Francisco, CA",Demandbase,06fda86882f7f6ef,Senior Data Scientist,,42.0,2,10 days,2016-10-16 11:54:58.624010
+52,"San Francisco, CA",Credit Karma,0146f9e0754c7379,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+53,"San Francisco, CA",Opendoor,78180a9cb4428ade,Machine Learning Engineer,,51.0,2,21 days,2016-10-16 11:54:58.624010
+54,"San Francisco, CA",Third Eye Consulting Services & Solutions LLC.,d96258490e5ae320,Data Scientist,,,,25 days,2016-10-16 11:54:58.624010
+55,"San Bruno, CA 94066",Walmart eCommerce,1fd77706b6b326be,Data Scientist,,42.0,17,5 days,2016-10-16 11:54:58.624010
+56,"San Francisco, CA",Virtually Live,46c7104e0b4f50e2,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+57,"San Francisco, CA",Instacart,8d6871777f595f59,Data Scientist,,40.2,83,30+ days,2016-10-16 11:54:58.624010
+58,"San Francisco, CA 94103 (South Of Market area)",AdRoll,d95846d4ebff03d4,Senior Data Scientist,,43.8,4,15 days,2016-10-16 11:54:58.624010
+59,"San Francisco, CA",eBay,d4c91452a20708d3,Sr. Data Scientist,,51.0,746,30 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+40,"San Francisco, CA","Rodan & Fields, LLC",90665cf63e238214,Data Scientist - Forecasting,,53.4,44,17 days,2016-10-16 11:54:58.624010
+41,"San Francisco, CA",Trulia,eea914c8a4a70116,Analytics Implementation Specialist,,43.8,44,11 days,2016-10-16 11:54:58.624010
+42,"San Francisco, CA",Salesforce,842ea98d9ed355f9,Summer 2017 Intern - Data Scientist,,52.800003,155,4 days,2016-10-16 11:54:58.624010
+43,"San Francisco, CA",Pulsate,0bf109625bb00f8c,Data Scientist / Analyst (Internship),,,,17 days,2016-10-16 11:54:58.624010
+44,"San Francisco, CA 94107 (South Of Market area)",Expa,c2128b2e0a038e1c,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+45,"San Francisco, CA",The Climate Corporation,fa52de9a162ab45f,Quantitative Analyst (Geospatial),,54.0,2,2 days,2016-10-16 11:54:58.624010
+46,"San Francisco, CA",INMASI,1f3ceb540034d809,Data Scientist,,,,30 days,2016-10-16 11:54:58.624010
+47,"San Francisco, CA 94103 (South Of Market area)",TellApart,bc06d0e24c4e3e4a,Software Engineer (Machine Learning) - TellApart,,,,10 days,2016-10-16 11:54:58.624010
+48,"Berkeley, CA","Wise.io, Inc.",743867c5fae7ba2a,Data Scientist,,,,22 days,2016-10-16 11:54:58.624010
+49,"San Francisco, CA",Atomic,6f6bb3c4f8ae0a4f,Data Scientist,,51.0,3,20 days,2016-10-16 11:54:58.624010
+50,"San Francisco, CA 94103 (South Of Market area)",Uber,8f8ccb1fc919e186,Data Scientist - Global Intelligence,,51.6,156,22 days,2016-10-16 11:54:58.624010
+51,"San Francisco, CA",Demandbase,06fda86882f7f6ef,Senior Data Scientist,,42.0,2,10 days,2016-10-16 11:54:58.624010
+52,"San Francisco, CA",Credit Karma,0146f9e0754c7379,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+53,"San Francisco, CA",Opendoor,78180a9cb4428ade,Machine Learning Engineer,,51.0,2,21 days,2016-10-16 11:54:58.624010
+54,"San Francisco, CA",Third Eye Consulting Services & Solutions LLC.,d96258490e5ae320,Data Scientist,,,,25 days,2016-10-16 11:54:58.624010
+55,"San Bruno, CA 94066",Walmart eCommerce,1fd77706b6b326be,Data Scientist,,42.0,17,5 days,2016-10-16 11:54:58.624010
+56,"San Francisco, CA",Virtually Live,46c7104e0b4f50e2,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+57,"San Francisco, CA",Instacart,8d6871777f595f59,Data Scientist,,40.2,83,30+ days,2016-10-16 11:54:58.624010
+58,"San Francisco, CA 94103 (South Of Market area)",AdRoll,d95846d4ebff03d4,Senior Data Scientist,,43.8,4,15 days,2016-10-16 11:54:58.624010
+59,"San Francisco, CA",eBay,d4c91452a20708d3,Sr. Data Scientist,,51.0,746,30 days,2016-10-16 11:54:58.624010
+60,"San Francisco, CA",BOLD,5c8567e99fedebcf,Sr. Data Scientist,,41.4,8,15 days,2016-10-16 11:54:58.624010
+61,"San Francisco, CA",LSQ,060ecc8e8cd930af,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+62,"San Francisco, CA",Beacon Hill Pharma,b7ddf9c49d764fff,Statistical Programmer,,,,8 days,2016-10-16 11:54:58.624010
+63,"Redwood City, CA",IMVU,5f81197122b5e949,Data Scientist,,53.4,10,12 days,2016-10-16 11:54:58.624010
+64,"San Bruno, CA",Google,09f5b266e91b0c16,"Statistician/Quantitative Analyst, YouTube",,52.800003,1218,25 days,2016-10-16 11:54:58.624010
+65,"San Francisco, CA",CSS Staffing,5747080825c07293,Data Scientist,,44.4,76,5 days,2016-10-16 11:54:58.624010
+66,"Burlingame, CA 94010",CrowdStar,5564d6264f325fe4,Data Scientist,,55.199997,3,18 days,2016-10-16 11:54:58.624010
+67,"San Francisco Bay Area, CA",Stem Inc,b4fd11dad8b7dc2c,Senior Data Scientist,,,,4 days,2016-10-16 11:54:58.624010
+68,"San Francisco, CA","Zendrive, Inc.",e1ad27969489971d,Business Analyst,,,,11 days,2016-10-16 11:54:58.624010
+69,"San Francisco, CA",Index,d2261c8d11c71dd4,Machine Learning Engineer,,43.8,31,30+ days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+40,"San Francisco, CA","Rodan & Fields, LLC",90665cf63e238214,Data Scientist - Forecasting,,53.4,44,17 days,2016-10-16 11:54:58.624010
+41,"San Francisco, CA",Trulia,eea914c8a4a70116,Analytics Implementation Specialist,,43.8,44,11 days,2016-10-16 11:54:58.624010
+42,"San Francisco, CA",Salesforce,842ea98d9ed355f9,Summer 2017 Intern - Data Scientist,,52.800003,155,4 days,2016-10-16 11:54:58.624010
+43,"San Francisco, CA",Pulsate,0bf109625bb00f8c,Data Scientist / Analyst (Internship),,,,17 days,2016-10-16 11:54:58.624010
+44,"San Francisco, CA 94107 (South Of Market area)",Expa,c2128b2e0a038e1c,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+45,"San Francisco, CA",The Climate Corporation,fa52de9a162ab45f,Quantitative Analyst (Geospatial),,54.0,2,2 days,2016-10-16 11:54:58.624010
+46,"San Francisco, CA",INMASI,1f3ceb540034d809,Data Scientist,,,,30 days,2016-10-16 11:54:58.624010
+47,"San Francisco, CA 94103 (South Of Market area)",TellApart,bc06d0e24c4e3e4a,Software Engineer (Machine Learning) - TellApart,,,,10 days,2016-10-16 11:54:58.624010
+48,"Berkeley, CA","Wise.io, Inc.",743867c5fae7ba2a,Data Scientist,,,,22 days,2016-10-16 11:54:58.624010
+49,"San Francisco, CA",Atomic,6f6bb3c4f8ae0a4f,Data Scientist,,51.0,3,20 days,2016-10-16 11:54:58.624010
+50,"San Francisco, CA 94103 (South Of Market area)",Uber,8f8ccb1fc919e186,Data Scientist - Global Intelligence,,51.6,156,22 days,2016-10-16 11:54:58.624010
+51,"San Francisco, CA",Demandbase,06fda86882f7f6ef,Senior Data Scientist,,42.0,2,10 days,2016-10-16 11:54:58.624010
+52,"San Francisco, CA",Credit Karma,0146f9e0754c7379,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+53,"San Francisco, CA",Opendoor,78180a9cb4428ade,Machine Learning Engineer,,51.0,2,21 days,2016-10-16 11:54:58.624010
+54,"San Francisco, CA",Third Eye Consulting Services & Solutions LLC.,d96258490e5ae320,Data Scientist,,,,25 days,2016-10-16 11:54:58.624010
+55,"San Bruno, CA 94066",Walmart eCommerce,1fd77706b6b326be,Data Scientist,,42.0,17,5 days,2016-10-16 11:54:58.624010
+56,"San Francisco, CA",Virtually Live,46c7104e0b4f50e2,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+57,"San Francisco, CA",Instacart,8d6871777f595f59,Data Scientist,,40.2,83,30+ days,2016-10-16 11:54:58.624010
+58,"San Francisco, CA 94103 (South Of Market area)",AdRoll,d95846d4ebff03d4,Senior Data Scientist,,43.8,4,15 days,2016-10-16 11:54:58.624010
+59,"San Francisco, CA",eBay,d4c91452a20708d3,Sr. Data Scientist,,51.0,746,30 days,2016-10-16 11:54:58.624010
+60,"San Francisco, CA",BOLD,5c8567e99fedebcf,Sr. Data Scientist,,41.4,8,15 days,2016-10-16 11:54:58.624010
+61,"San Francisco, CA",LSQ,060ecc8e8cd930af,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+62,"San Francisco, CA",Beacon Hill Pharma,b7ddf9c49d764fff,Statistical Programmer,,,,8 days,2016-10-16 11:54:58.624010
+63,"Redwood City, CA",IMVU,5f81197122b5e949,Data Scientist,,53.4,10,12 days,2016-10-16 11:54:58.624010
+64,"San Bruno, CA",Google,09f5b266e91b0c16,"Statistician/Quantitative Analyst, YouTube",,52.800003,1218,25 days,2016-10-16 11:54:58.624010
+65,"San Francisco, CA",CSS Staffing,5747080825c07293,Data Scientist,,44.4,76,5 days,2016-10-16 11:54:58.624010
+66,"Burlingame, CA 94010",CrowdStar,5564d6264f325fe4,Data Scientist,,55.199997,3,18 days,2016-10-16 11:54:58.624010
+67,"San Francisco Bay Area, CA",Stem Inc,b4fd11dad8b7dc2c,Senior Data Scientist,,,,4 days,2016-10-16 11:54:58.624010
+68,"San Francisco, CA","Zendrive, Inc.",e1ad27969489971d,Business Analyst,,,,11 days,2016-10-16 11:54:58.624010
+69,"San Francisco, CA",Index,d2261c8d11c71dd4,Machine Learning Engineer,,43.8,31,30+ days,2016-10-16 11:54:58.624010
+70,"San Francisco Bay Area, CA",Aarkay Technologies Inc.,0aa253e5aaca4534,Big Data Machine Learning Engineer,,,,26 days,2016-10-16 11:54:58.624010
+71,"San Francisco, CA 94126 (Financial District area)",Affirm,e7860d8f50cb8b87,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+72,"San Francisco, CA",Microsoft,c19ee83c410d3345,Principal Application & Data Scientist,,52.199997,2482,9 days,2016-10-16 11:54:58.624010
+73,"San Francisco, CA",Clover Health,68a2b83a62fbf6a5,Data Scientist (Product),,,,30+ days,2016-10-16 11:54:58.624010
+74,"San Francisco, CA",University of California San Francisco,36d7f5b7915924f6,Research Data Analyst,,52.199997,69,8 days,2016-10-16 11:54:58.624010
+75,"San Francisco, CA",Deloitte,a519bed9c5d24ff6,Big Data Senior Consultant,,51.0,3465,29 days,2016-10-16 11:54:58.624010
+76,"San Francisco, CA",Indeed Prime,6b43ff0a8a840881,Machine Learning Engineer,,,,30 days,2016-10-16 11:54:58.624010
+77,"San Francisco, CA",Chartboost,aa91ff374bf2babf,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+78,"San Francisco, CA","GRAIL, Inc.",d2993008aaf9cbbe,DATA ANALYSIS SCIENTIST,,,,30+ days,2016-10-16 11:54:58.624010
+79,"Mill Valley, CA 94941",Glassdoor,b357b9b4a7436fc9,Senior Data Scientist,,43.8,13,9 days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+40,"San Francisco, CA","Rodan & Fields, LLC",90665cf63e238214,Data Scientist - Forecasting,,53.4,44,17 days,2016-10-16 11:54:58.624010
+41,"San Francisco, CA",Trulia,eea914c8a4a70116,Analytics Implementation Specialist,,43.8,44,11 days,2016-10-16 11:54:58.624010
+42,"San Francisco, CA",Salesforce,842ea98d9ed355f9,Summer 2017 Intern - Data Scientist,,52.800003,155,4 days,2016-10-16 11:54:58.624010
+43,"San Francisco, CA",Pulsate,0bf109625bb00f8c,Data Scientist / Analyst (Internship),,,,17 days,2016-10-16 11:54:58.624010
+44,"San Francisco, CA 94107 (South Of Market area)",Expa,c2128b2e0a038e1c,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+45,"San Francisco, CA",The Climate Corporation,fa52de9a162ab45f,Quantitative Analyst (Geospatial),,54.0,2,2 days,2016-10-16 11:54:58.624010
+46,"San Francisco, CA",INMASI,1f3ceb540034d809,Data Scientist,,,,30 days,2016-10-16 11:54:58.624010
+47,"San Francisco, CA 94103 (South Of Market area)",TellApart,bc06d0e24c4e3e4a,Software Engineer (Machine Learning) - TellApart,,,,10 days,2016-10-16 11:54:58.624010
+48,"Berkeley, CA","Wise.io, Inc.",743867c5fae7ba2a,Data Scientist,,,,22 days,2016-10-16 11:54:58.624010
+49,"San Francisco, CA",Atomic,6f6bb3c4f8ae0a4f,Data Scientist,,51.0,3,20 days,2016-10-16 11:54:58.624010
+50,"San Francisco, CA 94103 (South Of Market area)",Uber,8f8ccb1fc919e186,Data Scientist - Global Intelligence,,51.6,156,22 days,2016-10-16 11:54:58.624010
+51,"San Francisco, CA",Demandbase,06fda86882f7f6ef,Senior Data Scientist,,42.0,2,10 days,2016-10-16 11:54:58.624010
+52,"San Francisco, CA",Credit Karma,0146f9e0754c7379,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+53,"San Francisco, CA",Opendoor,78180a9cb4428ade,Machine Learning Engineer,,51.0,2,21 days,2016-10-16 11:54:58.624010
+54,"San Francisco, CA",Third Eye Consulting Services & Solutions LLC.,d96258490e5ae320,Data Scientist,,,,25 days,2016-10-16 11:54:58.624010
+55,"San Bruno, CA 94066",Walmart eCommerce,1fd77706b6b326be,Data Scientist,,42.0,17,5 days,2016-10-16 11:54:58.624010
+56,"San Francisco, CA",Virtually Live,46c7104e0b4f50e2,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+57,"San Francisco, CA",Instacart,8d6871777f595f59,Data Scientist,,40.2,83,30+ days,2016-10-16 11:54:58.624010
+58,"San Francisco, CA 94103 (South Of Market area)",AdRoll,d95846d4ebff03d4,Senior Data Scientist,,43.8,4,15 days,2016-10-16 11:54:58.624010
+59,"San Francisco, CA",eBay,d4c91452a20708d3,Sr. Data Scientist,,51.0,746,30 days,2016-10-16 11:54:58.624010
+60,"San Francisco, CA",BOLD,5c8567e99fedebcf,Sr. Data Scientist,,41.4,8,15 days,2016-10-16 11:54:58.624010
+61,"San Francisco, CA",LSQ,060ecc8e8cd930af,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+62,"San Francisco, CA",Beacon Hill Pharma,b7ddf9c49d764fff,Statistical Programmer,,,,8 days,2016-10-16 11:54:58.624010
+63,"Redwood City, CA",IMVU,5f81197122b5e949,Data Scientist,,53.4,10,12 days,2016-10-16 11:54:58.624010
+64,"San Bruno, CA",Google,09f5b266e91b0c16,"Statistician/Quantitative Analyst, YouTube",,52.800003,1218,25 days,2016-10-16 11:54:58.624010
+65,"San Francisco, CA",CSS Staffing,5747080825c07293,Data Scientist,,44.4,76,5 days,2016-10-16 11:54:58.624010
+66,"Burlingame, CA 94010",CrowdStar,5564d6264f325fe4,Data Scientist,,55.199997,3,18 days,2016-10-16 11:54:58.624010
+67,"San Francisco Bay Area, CA",Stem Inc,b4fd11dad8b7dc2c,Senior Data Scientist,,,,4 days,2016-10-16 11:54:58.624010
+68,"San Francisco, CA","Zendrive, Inc.",e1ad27969489971d,Business Analyst,,,,11 days,2016-10-16 11:54:58.624010
+69,"San Francisco, CA",Index,d2261c8d11c71dd4,Machine Learning Engineer,,43.8,31,30+ days,2016-10-16 11:54:58.624010
+70,"San Francisco Bay Area, CA",Aarkay Technologies Inc.,0aa253e5aaca4534,Big Data Machine Learning Engineer,,,,26 days,2016-10-16 11:54:58.624010
+71,"San Francisco, CA 94126 (Financial District area)",Affirm,e7860d8f50cb8b87,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+72,"San Francisco, CA",Microsoft,c19ee83c410d3345,Principal Application & Data Scientist,,52.199997,2482,9 days,2016-10-16 11:54:58.624010
+73,"San Francisco, CA",Clover Health,68a2b83a62fbf6a5,Data Scientist (Product),,,,30+ days,2016-10-16 11:54:58.624010
+74,"San Francisco, CA",University of California San Francisco,36d7f5b7915924f6,Research Data Analyst,,52.199997,69,8 days,2016-10-16 11:54:58.624010
+75,"San Francisco, CA",Deloitte,a519bed9c5d24ff6,Big Data Senior Consultant,,51.0,3465,29 days,2016-10-16 11:54:58.624010
+76,"San Francisco, CA",Indeed Prime,6b43ff0a8a840881,Machine Learning Engineer,,,,30 days,2016-10-16 11:54:58.624010
+77,"San Francisco, CA",Chartboost,aa91ff374bf2babf,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+78,"San Francisco, CA","GRAIL, Inc.",d2993008aaf9cbbe,DATA ANALYSIS SCIENTIST,,,,30+ days,2016-10-16 11:54:58.624010
+79,"Mill Valley, CA 94941",Glassdoor,b357b9b4a7436fc9,Senior Data Scientist,,43.8,13,9 days,2016-10-16 11:54:58.624010
+80,"San Francisco, CA",First Republic Bank,f02a8cbc5c9e6118,Quantitative Analyst,,51.6,52,16 days,2016-10-16 11:54:58.624010
+81,"San Francisco, CA",Workbridge Associates,5931c9c32b08d702,Machine Learning Engineer,"$120,000 - $150,000 a year",41.4,25,19 days,2016-10-16 11:54:58.624010
+82,"San Francisco, CA 94111 (Financial District area)",Lookout,68d31b871ac2068b,Staff Data Engineer,,60.0,2,10 days,2016-10-16 11:54:58.624010
+83,"San Francisco, CA",Blue Owl,b7207023e0d8c929,Save lives building data science infrastructure,,,,30+ days,2016-10-16 11:54:58.624010
+84,"San Mateo, CA",Fanatics Inc.,3e5929fd56783275,"MTS 2, Data Scientist",,,,30+ days,2016-10-16 11:54:58.624010
+85,"San Francisco, CA",Trulia,ffb20aef66530d19,"Senior Data Scientist, Search and Local",,43.8,44,24 days,2016-10-16 11:54:58.624010
+86,"San Francisco, CA",Element Analytics,f83bb1c5d0240b2a,Data Engineer,,,,18 days,2016-10-16 11:54:58.624010
+87,"San Francisco, CA",Microsoft,21c7d15ab3710c79,WpA Consulting Lead,,52.199997,2482,1 day,2016-10-16 11:54:58.624010
+88,"San Francisco, CA 94103 (South Of Market area)",Uber,67db5db0df8f2c97,Data Scientist - Global Partnerships Travel,,51.6,156,30+ days,2016-10-16 11:54:58.624010
+89,"San Francisco, CA",Ancestry,10f141cfccd314ea,Senior Data Scientist,,42.6,35,30+ days,2016-10-16 11:54:58.624010
+0,"San Francisco, CA",Macy's,0af2239cd618e17c,Data Scientist (macys.com),,43.2,14172,3 days,2016-10-16 11:54:58.624010
+1,"San Francisco, CA",Hoodline,dd86068e34d0f55a,Machine Learning Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+2,"San Francisco, CA 94107 (South Of Market area)",Ubisoft,30768ffa71fdfbc4,"Data Scientist, Marketing Analytics",,51.0,68,3 days,2016-10-16 11:54:58.624010
+3,"San Francisco, CA 94107 (South Of Market area)",Doximity,788fdeb8484613ca,Data Scientist - Growth,,,,5 days,2016-10-16 11:54:58.624010
+4,"San Francisco, CA",Stitch Fix,0aab0ad01a77733a,Data Scientist,,40.8,34,3 days,2016-10-16 11:54:58.624010
+5,"San Francisco, CA 94114 (Castro-Upper Market area)",Apple,b1c75056addc71fd,"Software Engineer, Data Scientist",,52.800003,2568,3 days,2016-10-16 11:54:58.624010
+6,"San Francisco, CA",Collective Health,632abb6406e661e9,Data Scientist,,,,3 days,2016-10-16 11:54:58.624010
+7,"San Francisco, CA",Twitch,85e94cc9adaabf4d,Data Scientist,,55.800003,4,3 days,2016-10-16 11:54:58.624010
+8,"San Francisco, CA",Autodesk,84871d782e858e82,Intern Data Scientist for Product Analytics,,52.199997,147,4 days,2016-10-16 11:54:58.624010
+9,"San Francisco, CA 94103 (South Of Market area)",Yelp,0831dc37aed855a5,Data Scientist,,43.8,120,15 days,2016-10-16 11:54:58.624010
+10,"San Francisco, CA",Lyft Corporate,18f59da561f5e53e,Data Scientist (All Levels),,44.4,11,8 days,2016-10-16 11:54:58.624010
+11,"San Francisco, CA 94109 (Nob Hill area)",Oracle,5759cd4f3d7db96c,Data Scientist 2 | Utilities SaaS Analytics,,44.4,1012,11 days,2016-10-16 11:54:58.624010
+12,"San Francisco, CA",Element Analytics,2e9b79b377fcf7fa,Data Scientist,,,,18 days,2016-10-16 11:54:58.624010
+13,"San Francisco, CA",Zynga,41c2b86261039a04,"Data Scientist, Central Product Management",,44.4,36,2 days,2016-10-16 11:54:58.624010
+14,"San Francisco, CA",Esurance,e1a86af2b06412ba,Data Scientist,,42.6,102,15 days,2016-10-16 11:54:58.624010
+15,"San Francisco, CA 94107 (South Of Market area)",Scribd,0b09d641bbfa9bea,Data Scientist,,,,16 days,2016-10-16 11:54:58.624010
+16,"Redwood City, CA","GraphSQL, Inc.",d3b247a86d61c50b,Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+17,"San Francisco, CA",MsgAI,92726c3fc490726c,Data Scientist / Machine Learning / Deep Learning / NLP,,,,5 days,2016-10-16 11:54:58.624010
+18,"San Francisco, CA",Opendoor,d84ed2518fffebb7,Data Engineer,,51.0,2,7 days,2016-10-16 11:54:58.624010
+19,"San Carlos, CA",Upstart,31975e74bcc7ca3d,Growth Data Scientist,,51.0,3,3 days,2016-10-16 11:54:58.624010
+20,"San Francisco, CA",BOLD,70b5977bdf506f99,Data Scientist,,41.4,8,19 days,2016-10-16 11:54:58.624010
+21,"San Francisco, CA",Google,2b6c772e8386f21b,"Machine Learning Deployment Engineer, Professional Services,...",,52.800003,1218,16 days,2016-10-16 11:54:58.624010
+22,"San Francisco, CA 94126 (Financial District area)",Affirm,6f80ee4691b67a7a,"Data Scientist, Analytics",,,,16 days,2016-10-16 11:54:58.624010
+23,"San Francisco, CA 94105 (Financial District area)",TEKSystems,0abc4dff2377c229,Data Scientist,,44.4,1370,5 days,2016-10-16 11:54:58.624010
+24,"San Francisco, CA 94107 (South Of Market area)",Eventbrite,cb8867c03dd90ae5,Associate Data Scientist,,40.8,3,18 days,2016-10-16 11:54:58.624010
+25,"San Francisco, CA 94107 (South Of Market area)",Smule,c213c4ef2d4435c9,Data Scientist,,54.0,2,25 days,2016-10-16 11:54:58.624010
+26,"San Francisco, CA 94103 (South Of Market area)",Uber,b0f406f28505d810,Data Scientist - UberPOOL (LatAm-Focused),,51.6,156,18 days,2016-10-16 11:54:58.624010
+27,"San Francisco, CA",Esurance,2569ac90652ff3e1,Statistical Analyst,,42.6,102,2 days,2016-10-16 11:54:58.624010
+28,"San Francisco, CA",TaskRabbit,08ddb1563454d23f,Data Scientist,,53.4,8,26 days,2016-10-16 11:54:58.624010
+29,"San Francisco, CA","Kanjoya, Inc.",7728f3ed7b0653a8,Data Scientist,,,,5 days,2016-10-16 11:54:58.624010
+30,"San Francisco, CA",Twilio,78540a2dc40e5ca4,Data Scientist,,60.0,3,18 days,2016-10-16 11:54:58.624010
+31,"San Bruno, CA",Google,4250350251a3b07b,"Quantitative Business Analyst, YouTube",,52.800003,1218,12 days,2016-10-16 11:54:58.624010
+32,"San Francisco, CA",HomeSuite,a0eccbe302368b73,"Data Scientist, Data & Analytics",,,,22 days,2016-10-16 11:54:58.624010
+33,"San Francisco, CA",Hoodline,38b145fb1ca779c1,Data Scientist,,,,19 days,2016-10-16 11:54:58.624010
+34,"San Francisco, CA",The Climate Corporation,966a46d94b88016d,Quantitative Analyst (Seeds & Planting),,54.0,2,2 days,2016-10-16 11:54:58.624010
+35,"San Francisco, CA",Grit Matters,97b4c8849b1ece7d,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+36,"San Francisco, CA",Kabbage,cd9eb49eeebfbc3a,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+37,"San Francisco, CA 94108 (Financial District area)",Third Eye,b7d16c2a4ee22ec5,Data Scientist,,43.2,3,25 days,2016-10-16 11:54:58.624010
+38,"San Francisco, CA 94104 (Financial District area)",thredUP Inc,69d1b7a82c160b58,Data Scientist - Big Data Expert,,42.0,2,30+ days,2016-10-16 11:54:58.624010
+39,"San Francisco, CA",Thomson Reuters,ff31e62b3cf4347c,Data Scientist,,51.0,1255,2 days,2016-10-16 11:54:58.624010
+40,"San Francisco, CA","Rodan & Fields, LLC",90665cf63e238214,Data Scientist - Forecasting,,53.4,44,17 days,2016-10-16 11:54:58.624010
+41,"San Francisco, CA",Trulia,eea914c8a4a70116,Analytics Implementation Specialist,,43.8,44,11 days,2016-10-16 11:54:58.624010
+42,"San Francisco, CA",Salesforce,842ea98d9ed355f9,Summer 2017 Intern - Data Scientist,,52.800003,155,4 days,2016-10-16 11:54:58.624010
+43,"San Francisco, CA",Pulsate,0bf109625bb00f8c,Data Scientist / Analyst (Internship),,,,17 days,2016-10-16 11:54:58.624010
+44,"San Francisco, CA 94107 (South Of Market area)",Expa,c2128b2e0a038e1c,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+45,"San Francisco, CA",The Climate Corporation,fa52de9a162ab45f,Quantitative Analyst (Geospatial),,54.0,2,2 days,2016-10-16 11:54:58.624010
+46,"San Francisco, CA",INMASI,1f3ceb540034d809,Data Scientist,,,,30 days,2016-10-16 11:54:58.624010
+47,"San Francisco, CA 94103 (South Of Market area)",TellApart,bc06d0e24c4e3e4a,Software Engineer (Machine Learning) - TellApart,,,,10 days,2016-10-16 11:54:58.624010
+48,"Berkeley, CA","Wise.io, Inc.",743867c5fae7ba2a,Data Scientist,,,,22 days,2016-10-16 11:54:58.624010
+49,"San Francisco, CA",Atomic,6f6bb3c4f8ae0a4f,Data Scientist,,51.0,3,20 days,2016-10-16 11:54:58.624010
+50,"San Francisco, CA 94103 (South Of Market area)",Uber,8f8ccb1fc919e186,Data Scientist - Global Intelligence,,51.6,156,22 days,2016-10-16 11:54:58.624010
+51,"San Francisco, CA",Demandbase,06fda86882f7f6ef,Senior Data Scientist,,42.0,2,10 days,2016-10-16 11:54:58.624010
+52,"San Francisco, CA",Credit Karma,0146f9e0754c7379,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+53,"San Francisco, CA",Opendoor,78180a9cb4428ade,Machine Learning Engineer,,51.0,2,21 days,2016-10-16 11:54:58.624010
+54,"San Francisco, CA",Third Eye Consulting Services & Solutions LLC.,d96258490e5ae320,Data Scientist,,,,25 days,2016-10-16 11:54:58.624010
+55,"San Bruno, CA 94066",Walmart eCommerce,1fd77706b6b326be,Data Scientist,,42.0,17,5 days,2016-10-16 11:54:58.624010
+56,"San Francisco, CA",Virtually Live,46c7104e0b4f50e2,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+57,"San Francisco, CA",Instacart,8d6871777f595f59,Data Scientist,,40.2,83,30+ days,2016-10-16 11:54:58.624010
+58,"San Francisco, CA 94103 (South Of Market area)",AdRoll,d95846d4ebff03d4,Senior Data Scientist,,43.8,4,15 days,2016-10-16 11:54:58.624010
+59,"San Francisco, CA",eBay,d4c91452a20708d3,Sr. Data Scientist,,51.0,746,30 days,2016-10-16 11:54:58.624010
+60,"San Francisco, CA",BOLD,5c8567e99fedebcf,Sr. Data Scientist,,41.4,8,15 days,2016-10-16 11:54:58.624010
+61,"San Francisco, CA",LSQ,060ecc8e8cd930af,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+62,"San Francisco, CA",Beacon Hill Pharma,b7ddf9c49d764fff,Statistical Programmer,,,,8 days,2016-10-16 11:54:58.624010
+63,"Redwood City, CA",IMVU,5f81197122b5e949,Data Scientist,,53.4,10,12 days,2016-10-16 11:54:58.624010
+64,"San Bruno, CA",Google,09f5b266e91b0c16,"Statistician/Quantitative Analyst, YouTube",,52.800003,1218,25 days,2016-10-16 11:54:58.624010
+65,"San Francisco, CA",CSS Staffing,5747080825c07293,Data Scientist,,44.4,76,5 days,2016-10-16 11:54:58.624010
+66,"Burlingame, CA 94010",CrowdStar,5564d6264f325fe4,Data Scientist,,55.199997,3,18 days,2016-10-16 11:54:58.624010
+67,"San Francisco Bay Area, CA",Stem Inc,b4fd11dad8b7dc2c,Senior Data Scientist,,,,4 days,2016-10-16 11:54:58.624010
+68,"San Francisco, CA","Zendrive, Inc.",e1ad27969489971d,Business Analyst,,,,11 days,2016-10-16 11:54:58.624010
+69,"San Francisco, CA",Index,d2261c8d11c71dd4,Machine Learning Engineer,,43.8,31,30+ days,2016-10-16 11:54:58.624010
+70,"San Francisco Bay Area, CA",Aarkay Technologies Inc.,0aa253e5aaca4534,Big Data Machine Learning Engineer,,,,26 days,2016-10-16 11:54:58.624010
+71,"San Francisco, CA 94126 (Financial District area)",Affirm,e7860d8f50cb8b87,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+72,"San Francisco, CA",Microsoft,c19ee83c410d3345,Principal Application & Data Scientist,,52.199997,2482,9 days,2016-10-16 11:54:58.624010
+73,"San Francisco, CA",Clover Health,68a2b83a62fbf6a5,Data Scientist (Product),,,,30+ days,2016-10-16 11:54:58.624010
+74,"San Francisco, CA",University of California San Francisco,36d7f5b7915924f6,Research Data Analyst,,52.199997,69,8 days,2016-10-16 11:54:58.624010
+75,"San Francisco, CA",Deloitte,a519bed9c5d24ff6,Big Data Senior Consultant,,51.0,3465,29 days,2016-10-16 11:54:58.624010
+76,"San Francisco, CA",Indeed Prime,6b43ff0a8a840881,Machine Learning Engineer,,,,30 days,2016-10-16 11:54:58.624010
+77,"San Francisco, CA",Chartboost,aa91ff374bf2babf,Data Scientist,,,,30+ days,2016-10-16 11:54:58.624010
+78,"San Francisco, CA","GRAIL, Inc.",d2993008aaf9cbbe,DATA ANALYSIS SCIENTIST,,,,30+ days,2016-10-16 11:54:58.624010
+79,"Mill Valley, CA 94941",Glassdoor,b357b9b4a7436fc9,Senior Data Scientist,,43.8,13,9 days,2016-10-16 11:54:58.624010
+80,"San Francisco, CA",First Republic Bank,f02a8cbc5c9e6118,Quantitative Analyst,,51.6,52,16 days,2016-10-16 11:54:58.624010
+81,"San Francisco, CA",Workbridge Associates,5931c9c32b08d702,Machine Learning Engineer,"$120,000 - $150,000 a year",41.4,25,19 days,2016-10-16 11:54:58.624010
+82,"San Francisco, CA 94111 (Financial District area)",Lookout,68d31b871ac2068b,Staff Data Engineer,,60.0,2,10 days,2016-10-16 11:54:58.624010
+83,"San Francisco, CA",Blue Owl,b7207023e0d8c929,Save lives building data science infrastructure,,,,30+ days,2016-10-16 11:54:58.624010
+84,"San Mateo, CA",Fanatics Inc.,3e5929fd56783275,"MTS 2, Data Scientist",,,,30+ days,2016-10-16 11:54:58.624010
+85,"San Francisco, CA",Trulia,ffb20aef66530d19,"Senior Data Scientist, Search and Local",,43.8,44,24 days,2016-10-16 11:54:58.624010
+86,"San Francisco, CA",Element Analytics,f83bb1c5d0240b2a,Data Engineer,,,,18 days,2016-10-16 11:54:58.624010
+87,"San Francisco, CA",Microsoft,21c7d15ab3710c79,WpA Consulting Lead,,52.199997,2482,1 day,2016-10-16 11:54:58.624010
+88,"San Francisco, CA 94103 (South Of Market area)",Uber,67db5db0df8f2c97,Data Scientist - Global Partnerships Travel,,51.6,156,30+ days,2016-10-16 11:54:58.624010
+89,"San Francisco, CA",Ancestry,10f141cfccd314ea,Senior Data Scientist,,42.6,35,30+ days,2016-10-16 11:54:58.624010
+90,"San Francisco, CA",Spacequant,f33cac54504ba03c,Computer Vision Engineer / Data Scientist,,,,25 days,2016-10-16 11:54:58.624010
+91,"San Francisco, CA 94103 (South Of Market area)",Uber,5a727fce570a45e3,Head of Data Science - Rider,,51.6,156,30+ days,2016-10-16 11:54:58.624010
+92,"San Francisco, CA",The Climate Corporation,03448b5465e84398,Data Science Team Lead: Weather Science Statistics,,54.0,2,10 days,2016-10-16 11:54:58.624010
+93,"San Francisco, CA 94110 (Mission area)",Zenefits,66aebc77c60a3fe6,Data Scientist,,40.8,30,30+ days,2016-10-16 11:54:58.624010
+94,"San Francisco, CA",Clover Health,1fbfc0fe8c71c2c1,Data Scientist (Platform),,,,30+ days,2016-10-16 11:54:58.624010
+95,"San Francisco, CA",Willis Towers Watson,56faf1fb22dda877,Data Analytics Manager,,44.4,216,8 days,2016-10-16 11:54:58.624010
+96,"Foster City, CA",Techshed,d3d9b46d56a55d3c,Data Scientist,,,,27 days,2016-10-16 11:54:58.624010
+97,"San Francisco, CA",Microsoft,8e4999837856b559,Data Scientist - Yammer,,52.199997,2482,30+ days,2016-10-16 11:54:58.624010
+98,"San Francisco, CA",LendUp,de5fcfb3cc6cf663,Principal Data Scientist,,,,2 days,2016-10-16 11:54:58.624010
+99,"San Francisco, CA",Ticketfly,de6e69293a885e10,Senior Data Scientist,,43.2,3,30+ days,2016-10-16 11:54:58.624010
