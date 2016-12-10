@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title> Taxi Data </title>
+  </head>
+   <body>
+
+    <h1> Green Taxi Fare Estimator </h1>
+
+      <form action="/find_hist" method="POST">
+         <p> Month <input type="float" name="month" /></p>
+         <p> Day <input type="float" name="day" /></p>
+         <p><input type="submit" value="submit"/></p>
+
+
+      <form action="/find_fare" method="POST">
+         <p> Trip Distance <input type="float" name="dist" /></p>
+         <p> Rain Amount <input type="float" name="rain" /></p>
+         <p> Temperature <input type="int" name="temp" /></p>
+         <p> Day of the Week (0 is Monday and 6 is Sunday) <input type="int" name="day" /></p>
+         <p> Month <input type="int" name="month" /></p>
+         <p> Number of Passengers <input type="int" name="pass_count" /></p>
+
+         <p><input type="submit" value="submit"/></p>
+
+
+      </form>
+
+   </body>
+</html>
