@@ -7,7 +7,6 @@ from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.externals import joblib
 
 app = flask.Flask(__name__)
-app._static_folder = '/var/www/html/taxi_cab/'
 
 @app.route('/')
 def send_form():

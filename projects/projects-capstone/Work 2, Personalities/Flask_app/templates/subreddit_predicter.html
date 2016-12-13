@@ -1,0 +1,69 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type=text/javascript>
+  $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+</script>
+<html>
+  <head>
+    <title> Subreddit Predicter </title>
+  </head>
+   <body>
+
+    <h1> Subreddit Predicter </h1>
+      <h3> Please input up to 10 subreddits (Note, only inputs in the Top 250 subreddits will be used) </h3>
+        <form action="/find_subreddits" method="POST">
+          Choice 1:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_1" placeholder="Input a Subreddit!" required>
+              <datalist id="json-datalist"></datalist> 
+          </div>
+          Choice 2:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_2" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 3:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_3" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 4:
+          <div>
+          <input type="text" id="ajax" list="json-datalist" name="choice_4" placeholder="Input a Subreddit!" >
+            <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 5:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_5" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 6:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_6" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 7:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_7" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 8:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_8" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 9:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_9" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          Choice 10:
+          <div>
+            <input type="text" id="ajax" list="json-datalist" name="choice_10" placeholder="Input a Subreddit!" >
+              <datalist id="json-datalist"></datalist>
+          </div>
+          <div>
+           <p><input type="submit" value="Get Recommendations"/></p>
+        </form>
+   </body>
+  <script src="{{url_for('static', filename='script.js')}}"></script>
+</html>
